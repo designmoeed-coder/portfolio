@@ -29,7 +29,7 @@ export const JournalSection: React.FC<JournalSectionProps> = ({ onHoverStart, on
           </div>
 
           <p className="text-xs font-mono text-text-secondary leading-relaxed max-w-md border-l border-white/20 pl-4 py-1">
-            A curated collection of design experiments, creative processes, frontend discoveries, and visual stories. Every project begins with an idea and evolves through relentless exploration.
+            A curated collection of design experiments, brand identity insights, social media strategies, and visual stories. Every brand begins with an idea and evolves through relentless creative exploration.
           </p>
         </div>
 

@@ -24,7 +24,7 @@ export const StoryTransitionSection: React.FC = () => {
         <div className="w-16 h-px bg-white/30 my-2" />
 
         <p className="text-base sm:text-xl text-text-secondary max-w-xl font-light leading-relaxed">
-          And from that pivotal moment, every concept, line of code, and interface component began to rebuild with absolute intention.
+          And from that pivotal moment, every concept, visual element, and brand touchpoint began to rebuild with absolute intention.
         </p>
 
         {/* Paper Tear / Visual Break Graphic */}

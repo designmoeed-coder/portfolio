@@ -63,7 +63,7 @@ export const ProcessSection: React.FC = () => {
                   ABDUL MOEED
                 </p>
                 <p className="text-[10px] font-mono text-text-muted uppercase">
-                  CRAFTING INTENTIONAL EXPERIENCES
+                  CRAFTING POWERFUL BRANDS
                 </p>
               </div>
             </div>

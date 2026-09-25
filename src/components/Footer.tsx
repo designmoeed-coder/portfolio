@@ -20,7 +20,7 @@ export const Footer: React.FC<FooterProps> = ({ onHoverStart, onHoverEnd }) => {
               </span>
               <span className="text-accent-beige font-serif-italic font-normal text-2xl">✦</span>
               <span className="text-xl sm:text-3xl font-display font-bold tracking-[0.2em] uppercase text-[#F2F0EA]">
-                ABDUL MOEED CREATIVE DEVELOPER
+                ABDUL MOEED GRAPHIC DESIGNER
               </span>
               <span className="text-accent-beige font-serif-italic font-normal text-2xl">✦</span>
             </div>
@@ -37,7 +37,7 @@ export const Footer: React.FC<FooterProps> = ({ onHoverStart, onHoverEnd }) => {
             {personalInfo.name}
           </span>
           <p className="text-xs font-mono text-text-muted">
-            CREATIVE DEVELOPER & UI/UX DESIGNER
+            GRAPHIC DESIGNER & SOCIAL MEDIA MANAGER
           </p>
         </div>
 

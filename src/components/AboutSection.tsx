@@ -33,11 +33,11 @@ export const AboutSection: React.FC = () => {
             </div>
             <div className="flex flex-col gap-2">
               <span className="text-text-muted">METHODOLOGY</span>
-              <span className="text-[#F2F0EA] font-bold">DESIGN + FRONTEND CODE</span>
+              <span className="text-[#F2F0EA] font-bold">DESIGN + BRAND STRATEGY</span>
             </div>
             <div className="flex flex-col gap-2">
               <span className="text-text-muted">CORE STACK</span>
-              <span className="text-[#F2F0EA] font-bold">REACT / GSAP / TAILWIND</span>
+              <span className="text-[#F2F0EA] font-bold">FIGMA / PHOTOSHOP / ILLUSTRATOR</span>
             </div>
             <div className="flex flex-col gap-2">
               <span className="text-text-muted">AVAILABILITY</span>
